@@ -45,6 +45,7 @@ result set and only return the unique values.
     SELECT DISTINCT Title FROM FilmLocations;
 
  **LIMIT** is used for restricting the number of rows retrieved from the table.
+ 
  *Retrieve the first 25 rows from the “FilmLocations” table.*
 
      SELECT * FROM FilmLocations LIMIT 25;
