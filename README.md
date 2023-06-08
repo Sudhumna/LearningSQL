@@ -75,6 +75,7 @@ result set and only return the unique values.
     DELETE FROM table_name
     WHERE condition
     ;
+    
     ![SQL Basic commands](https://raw.githubusercontent.com/Sudhumna/LearningSQL/main/SQL_CHEETSHEET.png)
 
     
