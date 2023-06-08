@@ -50,7 +50,31 @@ result set and only return the unique values.
 
      SELECT * FROM FilmLocations LIMIT 25;
 
- 
+ ### DML (Data Manipulation Language) statements of SQL
+
+ - **INSERT statement:**
+
+ It is used to insert new rows into a table. 
+  
+    UPDATE table_name
+    SET column1 = value1, column2 = value2, ...
+    WHERE condition
+    ;
+ - **UPDATE statement:**
+
+ It is used to update the data in existing rows in the table. 
+
+    UPDATE table_name
+    SET column1 = value1, column2 = value2, ...
+    WHERE condition
+    ;  
+ - **DELETE statement**:
+
+  It is used to remove rows from a    table.
+
+    DELETE FROM table_name
+    WHERE condition
+    ;
 
     
 
