@@ -76,8 +76,7 @@ result set and only return the unique values.
     WHERE condition
     ;
     
-    ![SQL Basic commands](https://raw.githubusercontent.com/Sudhumna/LearningSQL/main/SQL_CHEETSHEET.png)
-
+![SQL Basic commands](https://raw.githubusercontent.com/Sudhumna/LearningSQL/main/SQL_CHEETSHEET.png)
     
 
     
