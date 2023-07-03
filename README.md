@@ -109,7 +109,7 @@ Common DML statement types include INSERT, SELECT, UPDATE, and DELETE.
  - *DDL or Data Definition Language statements are used for defining or changing objects in a database such as tables.*
  - *DML or Data Manipulation Language statements are used for manipulating or working with data in tables.*
 
-###SQL Cheat Sheet: CREATE TABLE, ALTER, DROP, TRUNCATE
+### SQL Cheat Sheet: CREATE TABLE, ALTER, DROP, TRUNCATE
     
 ![DDL statements](https://raw.githubusercontent.com/Sudhumna/LearningSQL/main/cheetsheet2.png)
 
