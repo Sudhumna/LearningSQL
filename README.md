@@ -112,4 +112,6 @@ Common DML statement types include INSERT, SELECT, UPDATE, and DELETE.
 ### SQL Cheat Sheet: CREATE TABLE, ALTER, DROP, TRUNCATE
     
 ![DDL statements](https://raw.githubusercontent.com/Sudhumna/LearningSQL/main/cheetsheet2.png)
+### SQL Cheat Sheet: Intermediate - LIKE, ORDER BY, GROUP BY
+![](![DDL statements](https://raw.githubusercontent.com/Sudhumna/LearningSQL/main/cheetsheet2.png))
 
